@@ -11,11 +11,13 @@
     "type-check": "vue-tsc --build"
   },
   "dependencies": {
+    "@playwright/mcp": "^0.0.32",
     "pinia": "^3.0.3",
     "vue": "^3.5.17",
     "vue-router": "^4.5.1"
   },
   "devDependencies": {
+    "@playwright/test": "^1.54.1",
     "@tsconfig/node22": "^22.0.2",
     "@types/node": "^22.15.32",
     "@vitejs/plugin-vue": "^5.1.4",

@@ -42,7 +42,7 @@ const store = useShoppingStore()
     </main>
 
     <footer class="main-footer">
-      <p>&copy; 2024 購物商城. All rights reserved.</p>
+      <p>&copy; 2025 購物商城. All rights reserved.</p>
     </footer>
   </div>
 </template>
